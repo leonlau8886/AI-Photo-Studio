@@ -1,0 +1,5 @@
+{
+  "name": "AI Photo Studio",
+  "description": "An AI-powered photo studio for professional portraits and wedding photography styling using the Gemini Nano Banana model.",
+  "requestFramePermissions": []
+}
